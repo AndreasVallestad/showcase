@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e9e0360fb33ff748b8f4d1d24e8a067, type: 3}
+  m_Name: R_Cappucino
+  m_EditorClassIdentifier: 
+  Name: Cappucino
+  DrinkSprite: {fileID: 21300000, guid: c49d88f5ea801e6449b3c030c26afffe, type: 3}
+  FillSprite: {fileID: 0}
+  DescText: 1/3 - (33%) espresso | 1/3 - (33%) foamed milk | 1/3 - (33%) steamed
+    milk
+  Ingredients:
+  - {fileID: 11400000, guid: d7bf4ec422e6b4e45991cf8ef4dfbff8, type: 2}
+  - {fileID: 11400000, guid: d7bf4ec422e6b4e45991cf8ef4dfbff8, type: 2}
+  - {fileID: 11400000, guid: e067ed3f0c293584ba383585708e2864, type: 2}
+  - {fileID: 11400000, guid: e067ed3f0c293584ba383585708e2864, type: 2}
+  - {fileID: 11400000, guid: 692eae5e27471ba458a59c853a7b7d8a, type: 2}
+  - {fileID: 11400000, guid: 692eae5e27471ba458a59c853a7b7d8a, type: 2}

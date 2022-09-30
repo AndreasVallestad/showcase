@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e9e0360fb33ff748b8f4d1d24e8a067, type: 3}
+  m_Name: R_Espresso
+  m_EditorClassIdentifier: 
+  Name: Double Espresso
+  DrinkSprite: {fileID: 21300000, guid: db3612c3fa57883419429bb12f1bd841, type: 3}
+  FillSprite: {fileID: 0}
+  DescText: 1/1 - (100%) a full cup of espresso
+  Ingredients:
+  - {fileID: 11400000, guid: d7bf4ec422e6b4e45991cf8ef4dfbff8, type: 2}
+  - {fileID: 11400000, guid: d7bf4ec422e6b4e45991cf8ef4dfbff8, type: 2}
+  - {fileID: 11400000, guid: d7bf4ec422e6b4e45991cf8ef4dfbff8, type: 2}
+  - {fileID: 11400000, guid: d7bf4ec422e6b4e45991cf8ef4dfbff8, type: 2}
+  - {fileID: 11400000, guid: d7bf4ec422e6b4e45991cf8ef4dfbff8, type: 2}
+  - {fileID: 11400000, guid: d7bf4ec422e6b4e45991cf8ef4dfbff8, type: 2}

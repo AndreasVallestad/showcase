@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57d33cab44acfe4468abe71c22dfeb8e, type: 3}
+  m_Name: D_1
+  m_EditorClassIdentifier: 
+  ShiftTime: 240
+  InitialCustomerDelay: 5
+  MinTimeBetweenCustomers: 30
+  MaxTimeBetweenCustomers: 45
+  PossibleCustomers:
+    _items:
+    - {fileID: 11400000, guid: 0afa17e795c8c3b4599acf97f7498b8d, type: 2}
+    - {fileID: 11400000, guid: 9a8b64c9e3723fc4fb04b5dce368daf5, type: 2}
+    - {fileID: 11400000, guid: 29ae624de5aed4049bee78640ad310c7, type: 2}
+    - {fileID: 11400000, guid: 971ec705f1b7e7c4a980453dd5243bec, type: 2}

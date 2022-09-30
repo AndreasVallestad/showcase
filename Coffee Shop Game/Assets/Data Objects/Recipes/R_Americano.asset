@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e9e0360fb33ff748b8f4d1d24e8a067, type: 3}
+  m_Name: R_Americano
+  m_EditorClassIdentifier: 
+  Name: Americano
+  DrinkSprite: {fileID: 21300000, guid: 439732a2bd6df7948bfbcda525b89bd8, type: 3}
+  FillSprite: {fileID: 0}
+  DescText: 2/5 - (40%) espresso | 3/5 - (60%) water
+  Ingredients:
+  - {fileID: 11400000, guid: d7bf4ec422e6b4e45991cf8ef4dfbff8, type: 2}
+  - {fileID: 11400000, guid: d7bf4ec422e6b4e45991cf8ef4dfbff8, type: 2}
+  - {fileID: 11400000, guid: d7bf4ec422e6b4e45991cf8ef4dfbff8, type: 2}
+  - {fileID: 11400000, guid: d7bf4ec422e6b4e45991cf8ef4dfbff8, type: 2}
+  - {fileID: 11400000, guid: c9e65b9ccc21d6949aa75f4b85f9e741, type: 2}
+  - {fileID: 11400000, guid: c9e65b9ccc21d6949aa75f4b85f9e741, type: 2}
+  - {fileID: 11400000, guid: c9e65b9ccc21d6949aa75f4b85f9e741, type: 2}
+  - {fileID: 11400000, guid: c9e65b9ccc21d6949aa75f4b85f9e741, type: 2}
+  - {fileID: 11400000, guid: c9e65b9ccc21d6949aa75f4b85f9e741, type: 2}
+  - {fileID: 11400000, guid: c9e65b9ccc21d6949aa75f4b85f9e741, type: 2}
