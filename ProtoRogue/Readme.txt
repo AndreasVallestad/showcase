@@ -1,4 +1,4 @@
-Project consists of multiple gameplay systems for a traditional roguelike.
+Project consists of multiple gameplay systems for a traditional roguelike, made in the Unity Game Engine.
 
 Some of the features included:
 
